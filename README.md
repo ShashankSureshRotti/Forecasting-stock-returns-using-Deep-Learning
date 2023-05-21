@@ -26,13 +26,7 @@ Model Training and Evaluation: The dataset is split into training and testing se
 Hyperparameter Tuning: The models' hyperparameters, such as learning rate, number of layers, and activation functions, are tuned using techniques like grid search or random search. This helps to optimize the model's performance and generalization ability.
 
 ## Repository Structure
-data/: Contains the dataset used for the analysis (not included in the repository due to size limitations).
+data/: Contains the dataset used for the analysis.
 notebooks/: Jupyter notebooks containing the code for data preprocessing, feature engineering, model training, and evaluation.
 models/: Saved models or model artifacts, including trained CNN, LSTM, and ANN models.
 README.md: Overview and instructions for the project.
-requirements.txt: Required packages and dependencies for running the project.
-Usage
-To run the code and reproduce the results, follow these steps:
-
-Clone this repository: git clone https://github.com/your-username/repo-name.git
-Navigate to the project directory
