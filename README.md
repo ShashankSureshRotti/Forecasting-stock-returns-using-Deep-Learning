@@ -27,6 +27,9 @@ Hyperparameter Tuning: The models' hyperparameters, such as learning rate, numbe
 
 ## Repository Structure
 data/: Contains the dataset used for the analysis.
+
 notebooks/: Jupyter notebooks containing the code for data preprocessing, feature engineering, model training, and evaluation.
+
 models/: Saved models or model artifacts, including trained CNN, LSTM, and ANN models.
+
 README.md: Overview and instructions for the project.
